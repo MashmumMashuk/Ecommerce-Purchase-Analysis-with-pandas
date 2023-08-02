@@ -22,7 +22,7 @@ Here we also checked if we have any anomaly in the dataset, which might require 
 
 2. Later we found that the two duplicated phone number is from different provinces. so the same household theory doesnt hold. And so we have to deal with the duplicate phone number when we need to send texts or call for further promotions.
 
-# Customer informations 
+# Customer informations and Analysis
 
 1. We have done some queries to understand the age limit of the customers.
 
